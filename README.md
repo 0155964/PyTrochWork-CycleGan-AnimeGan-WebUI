@@ -9,7 +9,7 @@ streamlitCloud展示用
 
 本平台是一个集成了多维度图像风格转换与物理级景深仿真的轻量化 Web 应用。基于深度学习网络（CycleGAN 与 AnimeGAN）自研训练，并进行了深度的工程化重构，剥离了笨重的 PyTorch 依赖，实现全平台秒级推理。
 
-<!-- 🌐 **在线体验体验 (Live Demo)：** [点击此处访问 Streamlit Cloud 部署环境](https://) -->
+ 🌐 **在线体验体验 (Live Demo)：** [点击此处访问 Streamlit Cloud 部署环境](https://pytrochwork-cyclegan-animegan-webui-auki9dj7dcpxla3nbrzqyd.streamlit.app)
 
 ---
 
